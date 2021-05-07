@@ -1,20 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Huxin&#39;s Website</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-22T16:41:27.323Z</updated>
+  <updated>2021-03-21T11:39:01.324Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Huxin Gao (高沪昕)</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Home</title>
+    <link href="http://example.com/2021/03/21/Home/"/>
+    <id>http://example.com/2021/03/21/Home/</id>
+    <published>2021-03-21T11:38:03.000Z</published>
+    <updated>2021-03-21T11:39:01.324Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Biography"><a href="#Biography" class="headerlink" title="Biography"></a>Biography</h1><p>Huxin Gao received his Bachelor degree in Mechanical Engineering from Wuhan University, China in 2018. Currently, he is pursuing his PhD degree in Biomedical Engineering, National University of Singapore (NUS).</p><p>His main areas of interest include biomedical robotics, reinforcement learning, autonomous control, tactile-based control.</p><h1 id="Experience"><a href="#Experience" class="headerlink" title="Experience"></a>Experience</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Biography&quot;&gt;&lt;a href=&quot;#Biography&quot; class=&quot;headerlink&quot; title=&quot;Biography&quot;&gt;&lt;/a&gt;Biography&lt;/h1&gt;&lt;p&gt;Huxin Gao received his Bachelor degree in </summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
